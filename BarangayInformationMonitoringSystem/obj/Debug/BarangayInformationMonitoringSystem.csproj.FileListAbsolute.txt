@@ -1,0 +1,63 @@
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe.config
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.pdb
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csprojResolveAssemblyReference.cache
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.frmLogin.resources
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmMain.resources
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Properties.Resources.resources
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csproj.GenerateResource.Cache
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.exe
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.pdb
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmResidents.resources
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.dll
+D:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.xml
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe.config
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.exe
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.pdb
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.pdb
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.dll
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.xml
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csprojResolveAssemblyReference.cache
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.frmLogin.resources
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmMain.resources
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmResidents.resources
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Properties.Resources.resources
+E:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csproj.GenerateResource.Cache
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe.config
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.exe
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.pdb
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.pdb
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.dll
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.xml
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csprojResolveAssemblyReference.cache
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.frmLogin.resources
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmMain.resources
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmResidents.resources
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Properties.Resources.resources
+H:\Estrada, James Gerald C in PC\OOP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csproj.GenerateResource.Cache
+D:\BackUP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe.config
+D:\BackUP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.exe
+D:\BackUP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.pdb
+E:\BackUP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe.config
+E:\BackUP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.exe
+E:\BackUP\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.pdb
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe.config
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.exe
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.pdb
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.exe
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\BarangayInformationMonitoringSystem.pdb
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.dll
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\bin\Debug\System.Data.SQLite.xml
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.frmLogin.resources
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmMain.resources
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmResidents.resources
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Properties.Resources.resources
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csproj.GenerateResource.Cache
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmPWDList.resources
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmSenior.resources
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.csprojResolveAssemblyReference.cache
+D:\AppDev-TJ\AppDev2026-2\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.Forms.frmAuthor.resources
+C:\Users\estra\Downloads\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.exe
+C:\Users\estra\Downloads\BarangayInformationMonitoringSystem\BarangayInformationMonitoringSystem\obj\Debug\BarangayInformationMonitoringSystem.pdb
